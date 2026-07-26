@@ -1,0 +1,6 @@
+{
+  "name": "Pankaj Kirana",
+  "description": "Modern local grocery shopping app for Pankaj Kirana store, featuring browsing, smart search, checkout, loyalty points, and an admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
